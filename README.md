@@ -1,6 +1,7 @@
+#README
 This Python code reads the temperature from a DS18B20 temperature sensor, reads the turbidity value from a sample file and sends the data to a ThingSpeak channel. The code uses the urllib library to make HTTP requests to the ThingSpeak API.
 
-Requirements
+#Requirements
 
 This code requires the following:
 Raspberry Pi with Python 3.x installed
