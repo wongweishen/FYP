@@ -4,7 +4,7 @@ import time
 from urllib.request import urlopen
 import serial
 
-myAPI_key = '07GE4ZII9D73AFW1' #your Write API key
+myAPI_key = '4ZI107A9I73FWGED' #your Write API key
 baseURL = ('https://api.thingspeak.com/update?api_key=%s' %myAPI_key)
 TurbidityLocation ='/home/pi/Desktop/Final/Sample.txt'
 
