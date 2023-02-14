@@ -18,10 +18,15 @@ Run the code using Python.
 Functions
 
 This code contains the following functions:
+
 sensor(): Finds the serial number of the DS18B20 temperature sensor.
+
 temp(ds18b20): Reads the temperature from the DS18B20 temperature sensor.
+
 read(): Reads the turbidity value from the sample file.
+
 loop(): Sends the turbidity value to the ThingSpeak channel.
+
 loop2(ds18b20): Sends the temperature value to the ThingSpeak channel.
 
 Main
